@@ -1,0 +1,32 @@
+@media (max-width: 1897px){
+ #downText{
+    padding: 1vh 1vw;
+ }
+ #secondline{
+    gap:1vw;
+ }
+}
+@media (max-width: 1717px){
+ #dashOval{
+    width: 6vw;
+ }
+}
+@media (max-width: 1705px){
+    .play{
+        margin-top: 9vh;
+        gap: 2vw;
+  width: 1vw;
+  height: 1vw;
+    }
+ }
+   @media (max-width: 1717px){
+   .bottomBar{
+    margin: 2vw 10vw;
+    padding: 3px 20px;
+   }
+ }
+ @media (max-width: 1000px){
+    nav{
+        margin: 0vw 1vw;
+    }
+  }
